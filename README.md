@@ -1,4 +1,4 @@
-# mari-mizutani-memory-card-game-
+# memory-card-game
 Learning Challenge
 
 It was much more difficult than I expected, and checked lots of reference.
