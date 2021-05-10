@@ -6,4 +6,4 @@ Still need to understand the structure more, but finally I made this.
 
 May the force be with me...
 
-https://mari-mizutani.github.io/mari-mizutani-memory-card-game-/
+https://github.com/mari-mizutani/memory-card-game
